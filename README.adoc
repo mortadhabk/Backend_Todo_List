@@ -1,0 +1,8 @@
+details du projet : 
+- Pour lancer les conteneurs on a d'abords créer le proxypass_network.
+
+- Il faut créer la base de données acme avec le bon mot de passe (à changer dans settings.py)
+
+- Il faut ensuite créer le superuser 
+
+- Quelques modifications dans le fichier serializers.py: pour changer l'affichage des données

@@ -1,0 +1,8 @@
+code/acme/__pycache__
+code/api/__pycache__
+code/api/migrations/__pycache__
+code/db.sqlite3
+code/api/tests/__pycache__/
+out/
+.vscode
+build/
